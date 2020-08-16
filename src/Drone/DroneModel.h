@@ -9,7 +9,7 @@
 #include "DroneParams.h"
 
 /**
- * Based on "Embedded Flight Control Based on Adaptive SlidingMode Strategy for a Quadrotor Micro Air Vehicle"
+ * Based on "Embedded Flight Control Based on Adaptive Sliding Mode Strategy for a Quadrotor Micro Air Vehicle"
  * by Herman Castañeda and Jose Luis Gordillo.
  * https://www.mdpi.com/2079-9292/8/7/793
  * This class represents the mathematical model of a QuadCopter, its useful for simulating them and testing control systems.
